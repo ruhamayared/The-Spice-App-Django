@@ -4,10 +4,20 @@
 
 ### Technologies Used
 
+#### Backend
+
 - Python
 - Django
 - Postgres
 - render.com
+
+#### Frontend
+
+- Typescript
+- HTML
+- CSS
+- Tailwind CSS
+- netlify.com
 
 ### Routes & Components
 
