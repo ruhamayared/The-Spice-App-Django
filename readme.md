@@ -2,8 +2,6 @@
 
 ##### Introducing the ultimate tool for professional and aspiring cooks alike - a CRUD app designed to keep track of all the exotic spices that are out there! Built using Python and Django for the backend, and TypeScript and React for the frontend, this app provides users with the ability to add spice names, descriptions, and images, and manage them with all CRUD functionality. With this app, cooking enthusiasts can now easily catalog and organize their spice collections, making their culinary adventures more exciting than ever before.
 
-#### Creator: Ruhama Yared
-
 ### Technologies Used
 
 #### Backend
@@ -41,19 +39,17 @@
 
 <img src="https://i.imgur.com/sq6giIs.png" width="600px" style="border: 2px solid black">
 
-### Wireframes/Mockups
+### Wireframes
 
 #### Index Page - Desktop and mobile
 
-<img src="https://i.imgur.com/a0CAsYt.png" width="600px">
-<img src="https://i.imgur.com/KL81RA6.png" width="600px">
-<img src="https://i.imgur.com/qHv09pg.png" width="300px">
+<img src="https://i.imgur.com/nq1hJqd.jpg" width="600px">
+<img src="https://i.imgur.com/DcVu9tC.jpg" width="300px">
 
 #### Show Page - Desktop and mobile
 
-<img src="https://i.imgur.com/NpWI7hJ.png" width="600px">
-<img src="https://i.imgur.com/YF0hRze.png" width="600px">
-<img src="https://i.imgur.com/WOa3m2i.png" width="300px">
+<img src="https://i.imgur.com/69f5eCP.jpg" width="600px">
+<img src="https://i.imgur.com/m9TUVmN.jpg" width="300px">
 
 <!-- prettier-ignore-start -->
 ### Daily Plan
@@ -72,6 +68,4 @@
 ### Link to Project
 
 [Backend Deployed Project Page](https://the-spice-app-django.onrender.com)  
-[Frontend Deployed Project Page](https://heartfelt-dasik-3376da.netlify.app/)
-
-<!-- change all wireframes and frontend link -->
+[Frontend Deployed Project Page](https://visionary-biscotti-9f36e0.netlify.app/)
