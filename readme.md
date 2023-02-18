@@ -2,6 +2,8 @@
 
 ##### Introducing the ultimate tool for professional and aspiring cooks alike - a CRUD app designed to keep track of all the exotic spices that are out there! Built using Python and Django for the backend, and TypeScript and React for the frontend, this app provides users with the ability to add spice names, descriptions, and images, and manage them with all CRUD functionality. With this app, cooking enthusiasts can now easily catalog and organize their spice collections, making their culinary adventures more exciting than ever before.
 
+#### Creator: Ruhama Yared
+
 ### Technologies Used
 
 #### Backend
@@ -22,8 +24,8 @@
 ### Routes & Components
 
 | Route      | Element | Loader      | Action       | Summary                                         |
-| ---------- | ------- | ----------- | ------------ | ----------------------------------------------- | --- |
-| /          | Index   | indexLoader |              | Loads up list of spices                         |     |
+| ---------- | ------- | ----------- | ------------ | ----------------------------------------------- |
+| /          | Index   | indexLoader |              | Loads up list of spices                         |
 | post/:id   | Show    | showLoader  |              | Loads up an individual spices                   |
 | create     | Create  |             | createAction | Handles submission of create form for one spice |
 | update/:id | Update  |             | updateAction | Handles submission of update form for one spice |
